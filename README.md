@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![wakatime](https://wakatime.com/badge/github/wilgnerschuertz/projects.svg)](https://wakatime.com/badge/github/wilgnerschuertz/projects)
-<img src=https://wakatime.com/badge/github/wilgnerschuertz/projects.svg">
+
+
+<img src="https://wakatime.com/badge/github/wilgnerschuertz/projects.svg">
