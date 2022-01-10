@@ -46,5 +46,4 @@
  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-green
-">
+<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-green"/>
