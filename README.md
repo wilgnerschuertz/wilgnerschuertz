@@ -48,4 +48,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-black"/>
+
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c.svg)](https://wakatime.com/@6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c)
