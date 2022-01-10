@@ -1,4 +1,6 @@
-<img src="http://cdn26.us1.fansshare.com/photo/hdwallpaperdownload/computer-wallpaper-desktop-background-hd-free-download-atpeek-computer-wallpaper-hd-free-download-desktop-full-size-images-background-1391885792.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
+<img src="https://i.pinimg.com/originals/80/bd/27/80bd270c90a143fd284030ef546f01b4.png" min-width="1000px" max-width="1000px" width="1000px" align="top" alt="developerLife">
+
+
 
 <p align="left"> 
   Sou Wilgner Schuertz, desenvolvedor Flutter. Atualmente trabalho na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (Flutter).
@@ -28,23 +30,18 @@
  Caso queira trocar uma idéia,<br> me manda uma mensagem ⤵️
 
   <p align="left">
-    <a href="mailto:wilgnerschuertz@outlook.com.br" alt="Outlook" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dionribeiro.rr@gmail.com"/></a>
     <a href="https://www.linkedin.com/in/wilgnerschuertz/" alt="Linkedin" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilgnerschuertz/"/></a>  
 
-    <img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/wilgnerschuertz/"/></a>
-    
-   
-    <a href="https://www.instagram.com/dionlaranjeira/" alt="Instagram" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dionlaranjeira/"/></a>  
-    <a href="https://api.whatsapp.com/send?phone=5595991318143&text=Ol%C3%A1,%20achei%20teu%20contado%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA." alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-07bc4c?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=05595991680720"/></a> 
- 
   </p>
 </p>
 
 
 - - -
 <p align="center" style="font-size: 20px ;">
+  
+  “Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente.”
+
+  Jobs, STEVE
  
 </p>
