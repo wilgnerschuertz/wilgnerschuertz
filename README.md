@@ -33,7 +33,7 @@
 ## WORKSTATION
 
 <p align"left">
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_16_2018-2A82CB?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_16_2018-blue?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
 
