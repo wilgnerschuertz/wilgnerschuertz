@@ -1,4 +1,4 @@
-<img src="https://image.pngaaa.com/955/5042955-middle.png" min-width="1000px" max-width="1000px" width="1000px" align="top" alt="developerLife">
+<img src="https://miro.medium.com/max/16000/1*9-ujy3CCBhrpkvS7TMLcoQ.png" min-width="1000px" max-width="1000px" width="1000px" align="top" alt="developerLife">
 
 
 
