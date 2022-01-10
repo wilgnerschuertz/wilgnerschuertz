@@ -13,7 +13,8 @@
 ## Tecnologias
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" >
+  <img src="hhttps://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   
 </p>
 
