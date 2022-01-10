@@ -38,6 +38,9 @@
 
 
 - - -
+
+[![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c.svg)](https://wakatime.com/@6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c)
+
 <p align="center" style="font-size: 20px ;">
   
   “Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente.”
@@ -47,8 +50,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-black"/>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz"/>
 
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c.svg)](https://wakatime.com/@6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c)
