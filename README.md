@@ -33,7 +33,7 @@
 ## WORKSTATION
 
 <p align"left">
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_16_2018-2C55FF?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_16_2018-2C9FFF?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
 
@@ -46,6 +46,4 @@
  
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-blue">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerschuertz&theme=blue-blue"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerschuertz&theme=blue-blue">
