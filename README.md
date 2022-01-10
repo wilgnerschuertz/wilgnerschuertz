@@ -46,4 +46,6 @@
  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=blue-green"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&theme=black-blue"/>
+</p>
