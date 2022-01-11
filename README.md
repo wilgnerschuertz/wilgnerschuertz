@@ -39,7 +39,7 @@
 
 - - -
 
-[![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c.svg)](https://wakatime.com/@6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c)
+Flutter Study Hours -> [![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c.svg)](https://wakatime.com/@6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c)
 
 <p align="center" style="font-size: 20px ;">
   
