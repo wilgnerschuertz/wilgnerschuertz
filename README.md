@@ -16,7 +16,15 @@
   
   <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" >
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-   <img src="https://img.shields.io/badge/figma-0175C2.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-0175C2.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  
+</p>
+
+## Estudos
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
   
 </p>
 
