@@ -70,9 +70,11 @@ Flutter Study Hours -> [![wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1
  
   <img src="https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&show_icons=true&theme=midnight-purple" min-width="400px" max-width="400px" width="400px" alt="github stats">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerschuertz&layout=compact)
+  ![Wil's GitHub](https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&count_private=true)
   
-  ![Wil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilgnerschuertz)
+  ![Wil's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerschuertz&layout=compact)
+  
+  ![Wil's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wilgnerschuertz)
   
 </p>
 
