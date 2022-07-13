@@ -64,11 +64,3 @@ ________________________________________________________________________________
 </p>
 
 __________________________________________________________________________________________________________________________________________________________________
-
-  ![Wil's GitHub](https://github-readme-stats.vercel.app/api?username=wilgnerschuertz&count_private=true)
-  
-  ![Wil's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerschuertz&layout=compact)
-  
-  ![Wil's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wilgnerschuertz)
-  
-
