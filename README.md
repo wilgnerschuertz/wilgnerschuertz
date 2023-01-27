@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Developer for just over six months. Public employee at the state water company, I work as a developer of mobile applications 'Flutter'<br><br>Systems Analyst.</h4>
+<h4 align="left">Olá, meu nome é Wilgner Schuertz e sou desenvolvedor Flutter com mais de 1 ano de experiência. Possuo habilidades sólidas em desenvolvimento de aplicativos móveis, incluindo projetos do início ao fim. Meu perfil no LinkedIn pode ser encontrado em https://www.linkedin.com/in/wilgnerschuertz/ e meu repositório no GitHub em https://github.com/wilgnerschuertz. Eu gostaria de usar minhas habilidades para contribuir para projetos interessantes e desafiadores.<br><br>Systems Analyst.</h4>
 
 ###
 
